@@ -268,7 +268,7 @@ figure {
         display: block;
         margin-bottom: 10px; }
         #colorlib-hero .flexslider .flex-control-nav li a {
-          background: rgba(0, 0, 0, 0.5);
+          background: rgba(255, 255, 255, 0.9);
           -webkit-box-shadow: none;
           box-shadow: none;
           width: 12px;
@@ -336,7 +336,7 @@ figure {
           border: none;
           font-weight: 400; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
-            color: #fff;
+			color: #fff;
             border: 1px solid #2c98f0;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
